@@ -8,15 +8,11 @@
  |_| |_|_| \_\    \_/  |___|_| \_| |_| /_/   \_\_____|
 ```
 
-</div>
-
 <br>
 
-<div align="center">
-
-```
-> building things that matter_
-```
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=ffffff&center=true&vCenter=true&width=450&lines=building+things+that+matter;full-stack+dev;always+learning" alt="Typing SVG" />
+</a>
 
 </div>
 
