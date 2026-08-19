@@ -8,12 +8,6 @@
 
 </div>
 
-<br>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Herni&theme=dark&ring=3FB950&fire=3FB950&currStreakLabel=3FB950&background=0D1117&stroke=30363D&dates=C9D1D9" width="400" />
-<img src="https://github-readme-stats.vercel.app/api?username=Dev-Herni&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&title_color=3FB950&icon_color=3FB950&text_color=C9D1D9" width="400" />
-</div>
 
 <br>
 
