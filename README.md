@@ -10,17 +10,10 @@
 ```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FFE0&center=true&vCenter=true&width=500&lines=hey%2C+i'm+Dev-Herni+%F0%9F%91%8B;full-stack+developer;passionate+about+coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Building+cool+stuff%2C+one+commit+at+a+time.;Always+learning%2C+always+shipping." alt="Typing SVG" />
 </a>
 
 </div>
-
----
-
-```text
-Building cool stuff, one commit at a time.
-Always learning, always shipping.
-```
 
 ---
 
