@@ -1,6 +1,22 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=3FB950&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Henri+%F0%9F%91%8B;Building+things+that+matter;Full-Stack+%7C+TypeScript+%7C+Shell" alt="Typing SVG" />
+```
+  _   _ ____   __     _____ _   _ _____    _    _
+ | | | |  _ \  \ \   / /_ _| \ | |_   _|  / \  | |
+ | |_| | |_) |  \ \ / / | ||  \| | | |   / _ \ | |
+ |  _  |  _ <    \ V /  | || |\  | | |  / ___ \| |___
+ |_| |_|_| \_\    \_/  |___|_| \_| |_| /_/   \_\_____|
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+> building things that matter_
+```
 
 </div>
 
@@ -16,11 +32,12 @@
 <div align="center">
 
 ```
-+------------------+------------------+------------------+
-|    TypeScript    |    JavaScript    |      Shell       |
-+------------------+------------------+------------------+
-|     Node.js      |       HTML       |                  |
-+------------------+------------------+------------------+
+.--------------------------------------------------.
+|                 TECH STACK                       |
+.--------------------------------------------------.
+|  [TypeScript]    [JavaScript]    [Shell]         |
+|  [Node.js]       [HTML]                           |
+'--------------------------------------------------'
 ```
 
 </div>
@@ -30,7 +47,11 @@
 <div align="center">
 
 ```
-[ GitHub ]  https://github.com/Dev-Herni
+.--------------------------------------------------.
+|                 CONNECT                          |
+.--------------------------------------------------.
+|  > https://github.com/Dev-Herni                  |
+'--------------------------------------------------'
 ```
 
 </div>
@@ -40,7 +61,7 @@
 <div align="center">
 
 ```
-< Profile Views >
+[profile views]
 ```
 
 <img src="https://komarev.com/ghpvc/?username=Dev-Herni&style=flat-square&color=3FB950&label=Profile+Views" />
