@@ -19,6 +19,6 @@
 
 <div align="center">
 <sub>
-<img src="https://komarev.com/ghpvc/?username=Dev-Herni&color=00ffe0&style=flat-square&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=Dev-Herni&color=01ffe0&style=flat-square&label=profile+views" />
 </sub>
 </div>
